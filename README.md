@@ -1,1 +1,1 @@
-# remote-sensing-nn-datasets
+# Remote Sensing Neural Network Datasets for Decision Fusion
